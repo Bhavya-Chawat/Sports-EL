@@ -1,0 +1,23 @@
+# Python virtual environment
+backend/venv/
+
+# Database (auto-generated)
+backend/database/kabaddi.db
+
+# Synthetic dataset (auto-generated)
+backend/data/PKL_Synthetic_Dataset.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Node modules
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+
+# Environment files
+.env
+.env.local
